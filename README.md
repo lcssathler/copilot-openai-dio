@@ -1,8 +1,8 @@
-# Projeto DIO: Explorando Copilot e Azure OpenAI
+Prática com Copilot e Azure OpenAI
 
 ## 🚀 Visão Geral
 
-Este repositório foi criado como parte do desafio da DIO para explorar as funcionalidades do **Microsoft Copilot** e os recursos da **plataforma Azure OpenAI**. O objetivo é documentar a experiência com exemplos práticos, prompts utilizados e aprendizados adquiridos ao longo do processo.
+Este repositório foi criado como parte do desafio da DIO para explorar as funcionalidades do **Microsoft Copilot** e os recursos da **plataforma Azure OpenAI**. 
 
 ## 🎯 Objetivos do Projeto
 
@@ -20,8 +20,6 @@ copilot-openai-dio/
 │   └── exemplos-prompts.txt
 ├── aprendizados/
 │   └── anotacoes.md
-├── images/
-│   └── capturas-de-tela.png (opcional)
 ```
 
 ## 💡 Exemplos de Uso e Prompts
@@ -64,12 +62,5 @@ Arquivo: `aprendizados/anotacoes.md`
 
 ## 📌 Conclusão
 
-Este projeto me ajudou a entender como a IA generativa pode ser aplicada de forma produtiva e segura em contextos reais. Copilot e Azure OpenAI são ferramentas poderosas que, quando bem utilizadas, ampliam a eficiência e a criatividade de indivíduos e equipes.
+Este projeto me ajudou a entender como a IA generativa pode ser aplicada de forma produtiva e segura em contextos reais. Copilot e Azure OpenAI são ferramentas poderosas que ampliam a eficiência e a criatividade de indivíduos e equipes.
 
-## 📅 Data
-
-Maio de 2025
-
-## 🧑‍💻 Autor
-
-[Seu Nome Aqui]
